@@ -1,0 +1,28 @@
+node_modules/
+dist/
+*.log
+artifacts/
+
+# Generated local preview and consultant packages
+offline-preview.html
+*.zip
+scripts/create-consultant-package.ps1
+
+# Internal planning material retained in the local consultant package
+docs/
+
+# Environment and local secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files and editor / OS state
+*.tmp
+*.temp
+*.bak
+*~
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
