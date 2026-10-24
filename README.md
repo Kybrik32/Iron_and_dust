@@ -4,6 +4,8 @@
 
 **A cinematic website concept for a fictional custom motorcycle workshop.**
 
+[**VIEW LIVE WEBSITE →**](https://iron-and-dust.wolkowmaksim1437.workers.dev)
+
 \
 \
 \
@@ -21,7 +23,8 @@ The visual direction combines industrial textures, dark surfaces, warm copper ac
 
 **Project type:** Personal portfolio concept\
 **Role:** Web development and implementation\
-**Status:** Completed locally — public deployment pending
+**Status:** Deployed on Cloudflare Workers  
+**Live demo:** [Explore IRON & DUST](https://iron-and-dust.wolkowmaksim1437.workers.dev)
 
 ## Design Philosophy
 
